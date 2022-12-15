@@ -5,12 +5,12 @@
       "Application": "Pcbnew",
       "Version": "6.0.7-f9a2dced07~116~ubuntu22.04.1"
     },
-    "CreationDate": "2022-10-12T16:01:38-07:00"
+    "CreationDate": "2022-10-14T15:58:08-07:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
-      "Name": "tigard",
-      "GUID": "74696761-7264-42e6-9b69-6361645f7063",
+      "Name": "ft2232-breakout",
+      "GUID": "66743232-3332-42d6-9272-65616b6f7574",
       "Revision": "rev?"
     },
     "Size": {
@@ -34,47 +34,47 @@
   ],
   "FilesAttributes": [
     {
-      "Path": "tigard-F_Cu.gtl",
+      "Path": "ft2232-breakout-F_Cu.gtl",
       "FileFunction": "Copper,L1,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "tigard-B_Cu.gbl",
+      "Path": "ft2232-breakout-B_Cu.gbl",
       "FileFunction": "Copper,L2,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "tigard-F_Paste.gtp",
+      "Path": "ft2232-breakout-F_Paste.gtp",
       "FileFunction": "SolderPaste,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "tigard-B_Paste.gbp",
+      "Path": "ft2232-breakout-B_Paste.gbp",
       "FileFunction": "SolderPaste,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "tigard-F_Silkscreen.gto",
+      "Path": "ft2232-breakout-F_Silkscreen.gto",
       "FileFunction": "Legend,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "tigard-B_Silkscreen.gbo",
+      "Path": "ft2232-breakout-B_Silkscreen.gbo",
       "FileFunction": "Legend,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "tigard-F_Mask.gts",
+      "Path": "ft2232-breakout-F_Mask.gts",
       "FileFunction": "SolderMask,Top",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "tigard-B_Mask.gbs",
+      "Path": "ft2232-breakout-B_Mask.gbs",
       "FileFunction": "SolderMask,Bot",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "tigard-Edge_Cuts.gm1",
+      "Path": "ft2232-breakout-Edge_Cuts.gm1",
       "FileFunction": "Profile",
       "FilePolarity": "Positive"
     }
